@@ -7,18 +7,26 @@
 ## 📁 Project Structure
 
 ```
-hr-analytics-attrition/
+hr-analytics-dashboard/
 │
-├── sql/
-│   └── hr_attrition_analysis.sql       # Full SQL pipeline (DDL → Analysis → Views)
+├── Dataset/
+│   ├── HR-Employee-Attrition.csv       # Employee attrition dataset
+│   
 │
-├── dashboards/
-│   ├── executive_dashboard.png          # HR Analytics Executive Dashboard
-│   ├── compensation_growth.png          # Compensation & Career Growth Analysis
-│   ├── satisfaction_analysis.png        # Employee Experience Analysis
-│   └── workforce_risk.png               # Workforce Risk Analysis
+├── SQL/
+│   └── hr_analytics_project_sql.sql    # Full SQL analysis pipeline
 │
-└── README.md
+├── PowerBI/
+│   └── hr_analytics_employee_attrition_dashboard.pbix
+│                                          # Interactive Power BI dashboard
+│
+├── Dashboards/
+│   ├── executive_dashboard.png         # Executive Workforce Overview
+│   ├── compensation_growth.png         # Compensation & Career Growth Analysis
+│   ├── satisfaction_analysis.png       # Employee Satisfaction & Engagement Analysis
+│   └── workforce_risk.png              # Workforce Risk & Attrition Analysis
+│
+└── README.md                           # Project documentation
 ```
 
 ---
