@@ -198,13 +198,13 @@ Three reusable views created for Power BI connectivity:
 | Employees Without Promotion | 260 |
 
 **Key Insights:**
-- **Overtime is the single strongest attrition predictor** — employees working overtime leave at a 53.59% rate vs. only ~23.6% for non-overtime employees
-- 127 overtime employees left vs. 289 who stayed — nearly a 1:2.3 leave-to-stay ratio for OT workers
-- Attrition by work-life level shows **"Best" balance (53.59%)** has the highest share — this appears counterintuitive but is volume-driven by the "Best" group size
-- **65.82% of attrition** comes from employees who travel rarely — dispelling the assumption that frequent travelers leave most
-- Only **5.06%** of attrition comes from non-travelers
-- **High Risk Employee % gauge: 2.65%** — 39 employees sit in the highest risk tier (overtime + low satisfaction + poor work-life balance)
 
+* Attrition is heavily concentrated in Year 0–1 since last promotion — employees who feel stagnant leave early
+* Company tenure analysis shows peak attrition in Years 1–3, suggesting early-tenure disengagement
+* Sales department has the highest average salary (≈$7.0K), followed by HR (≈$6.7K) and R&D (≈$6.3K)
+* 43.54% of employees are in the Medium Income band — the group most susceptible to competitive offers
+* Managers earn ≈$17K and Research Directors ≈$16K, creating a clear earnings gap from entry-level roles (≈$3K)
+* 260 employees have gone without a promotion — a critical retention risk pool
 ---
 
 ## 🔍 Cross-Dashboard Key Findings
