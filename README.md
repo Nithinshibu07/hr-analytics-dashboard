@@ -258,9 +258,9 @@ Three reusable views created for Power BI connectivity:
 
 ## 👤 Author
 
-**[Your Name]**  
+**Nithin Shibu**  
 Data Analyst | SQL · Power BI · HR Analytics  
-[LinkedIn](#) · [GitHub](#) · [Portfolio](#)
+
 
 ---
 
